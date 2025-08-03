@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="rjy_network_with_tls.net.xml"/>
+        <route-files value="rjy_routes.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+</configuration>
